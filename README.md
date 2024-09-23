@@ -22,7 +22,7 @@
 
 - Run the game with: python3 pong_game.py
 
-## Game Controls:
+## Game Instructions:
 
 - The paddles move up and down with the W/S keys for the left paddle;
   
