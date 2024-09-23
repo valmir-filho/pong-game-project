@@ -1,5 +1,7 @@
 # Pong Game Project.
 
+![image](https://github.com/user-attachments/assets/ed077dec-4d04-4a03-b3fd-4a5495039c33)
+
 ## Content:
 
 - Pong Game Project developed in Python.
