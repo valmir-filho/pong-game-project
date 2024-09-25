@@ -16,13 +16,13 @@
 
 - Create the Game File: Open a text editor (like VSCode, Sublime Text, or even Notepad);
   
-- Copy the Python code (pong-game.py) into the editor;
+- Copy the Python code (pong_game.py) into the editor;
 
 - Save the file as pong_game.py;
 
 - Run the Game: Open your terminal (or Command Prompt) and navigate to the directory where you saved pong_game.py;
 
-- Run the game with: python3 pong_game.py
+- Run the game with: python3 pong_game.py.
 
 ## Game Instructions:
 
